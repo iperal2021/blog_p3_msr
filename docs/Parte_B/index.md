@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video
+title: Parte B
 nav_exclude: false
 ---
 
