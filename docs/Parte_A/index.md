@@ -25,6 +25,7 @@ nav_exclude: false
 <center>
     <img src="assets/img/tf_tree_graph_2.png" width="700" height="400">
 </center>
+
 ### **Video explicativo de la parte A:**
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/OlZ7BmtDzaM/0.jpg)](http://www.youtube.com/watch?v=OlZ7BmtDzaM "Parte A")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/riD4xcIXR-4/0.jpg)](https://www.youtube.com/watch?v=riD4xcIXR-4 "Parte A")
