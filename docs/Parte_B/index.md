@@ -8,10 +8,10 @@ nav_exclude: false
 
 ### Gráficas Velocidad
 
-![grafica_floor]()
+![grafica_floor](https://github.com/iperal2021/blog_p3_msr/blob/main/docs/Parte_B/assets/img/plot_floor.png)
 
 
-![grafica_sand]()
+![grafica_sand](https://github.com/iperal2021/blog_p3_msr/blob/main/docs/Parte_B/assets/img/plot_sand.png)
 
 Debido a la forma de robot modelado en la mayoría de los casos no habrá colisión con los obstaculos y la velocidad seguirá la gráfica velocidad-tiempo que se pide. En el caso de una colision el robot detendrá todo su movimiento.
 
